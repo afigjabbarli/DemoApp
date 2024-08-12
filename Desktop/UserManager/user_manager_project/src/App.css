@@ -1,0 +1,16 @@
+*, *::before, *::after
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+    outline: none;
+    line-height: normal;
+}
+
+html
+{
+    overflow-x: hidden;
+    font-size: 62.5%;
+}
